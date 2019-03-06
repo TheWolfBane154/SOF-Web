@@ -1,6 +1,11 @@
 p {
 color: Blue;
 }
+
 h1 {
 color: DarkOrange;
+}
+
+body {
+  background-color: lightblue;
 }
