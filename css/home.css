@@ -4,6 +4,8 @@ color: Blue;
 
 h1 {
 color: DarkOrange;
+position: fixed;
+left: 50%;
 }
 
 body {
